@@ -7,6 +7,7 @@ body {
 h1 {
     color: transparent;
     animation: effect 3s linear infinite;
+    text-align: center;
     
 }
 
