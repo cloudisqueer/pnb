@@ -2,6 +2,7 @@ body {
     background-color: black;
     color: white;
     font-family: 'Comic Sans MS', sans-serif;
+    text-align: center;
 }
 h1 {
     color: transparent;
@@ -12,12 +13,12 @@ h1 {
 @keyframes effect {
     0% {
         background: linear-gradient(
-            #add8e6, #add8e6);
+            #008000, #008000);
         -webkit-background-clip: text;
     }
     100% {
         background: linear-gradient(
-            #B57EDC, #B57EDC);
+            #4682b4, #4682b4);
         -webkit-background-clip: text;
     }
 }
